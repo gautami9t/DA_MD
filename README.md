@@ -1,1 +1,3 @@
 # DA_MD
+
+My project focuses on analyzing a Movie dataset collected from The Movie Database (TMDb). The dataset contains information about 10,000 movies, including user ratings and revenue. The main objective of the analysis is to explore various aspects related to movie popularity, profitability, and genre preferences. By examining factors like budget, runtime, and release year, the project aims to identify potential relationships and trends within the movie industry. The is cleaned and explored using visualization techniques to draw meaningful conclusions about the factors influencing movie success.
